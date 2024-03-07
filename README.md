@@ -1,4 +1,4 @@
 # mini-llm
 
-$ poetry install
+$ poetry install  
 $ python src/main.py
